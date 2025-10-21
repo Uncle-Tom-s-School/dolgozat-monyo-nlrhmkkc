@@ -47,3 +47,11 @@ body{
     grid-template-columns: repeat(4, 1fr);
   }
 }
+
+.van{
+  color: #72C4D6;
+}
+
+.nincs{
+  color: red;
+}
